@@ -5,6 +5,7 @@ Olá! Seja bem vindo!
 Meu nome é Denise Hasselmann
 
 <head><i class="fa-solid fa-gears"></i>
+  
 Engenharia de Qualidade/ Analista de Qualidade/ Analista de Testes
 
 
